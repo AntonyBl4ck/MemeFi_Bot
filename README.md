@@ -13,7 +13,7 @@ Follow these simple steps to get your MemeFI Bot up and running:
 
 4. **Insert Your Key**  
    Open the extracted folder and locate the configuration file.  
-   Follow the instructions in the video to insert your activation key into the appropriate field.
+   Follow the instructions in the video [here](https://youtu.be/TXGw3NLdpUs) to insert your activation key into the appropriate field.
 
 5. **Run the Bot**  
    After entering your key, you’re ready to go! Launch the bot and start automating your MemeFI experience.
