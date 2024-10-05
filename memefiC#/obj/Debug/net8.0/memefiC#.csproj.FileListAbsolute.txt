@@ -1,0 +1,17 @@
+D:\hamster\hamsterpc\memefiC#\memefiC#\bin\Debug\net8.0\memefiC#.exe
+D:\hamster\hamsterpc\memefiC#\memefiC#\bin\Debug\net8.0\memefiC#.deps.json
+D:\hamster\hamsterpc\memefiC#\memefiC#\bin\Debug\net8.0\memefiC#.runtimeconfig.json
+D:\hamster\hamsterpc\memefiC#\memefiC#\bin\Debug\net8.0\memefiC#.dll
+D:\hamster\hamsterpc\memefiC#\memefiC#\bin\Debug\net8.0\memefiC#.pdb
+D:\hamster\hamsterpc\memefiC#\memefiC#\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\hamster\hamsterpc\memefiC#\memefiC#\obj\Debug\net8.0\memefiC#.csproj.AssemblyReference.cache
+D:\hamster\hamsterpc\memefiC#\memefiC#\obj\Debug\net8.0\memefiC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\hamster\hamsterpc\memefiC#\memefiC#\obj\Debug\net8.0\memefiC#.AssemblyInfoInputs.cache
+D:\hamster\hamsterpc\memefiC#\memefiC#\obj\Debug\net8.0\memefiC#.AssemblyInfo.cs
+D:\hamster\hamsterpc\memefiC#\memefiC#\obj\Debug\net8.0\memefiC#.csproj.CoreCompileInputs.cache
+D:\hamster\hamsterpc\memefiC#\memefiC#\obj\Debug\net8.0\memefiC#.csproj.CopyComplete
+D:\hamster\hamsterpc\memefiC#\memefiC#\obj\Debug\net8.0\memefiC#.dll
+D:\hamster\hamsterpc\memefiC#\memefiC#\obj\Debug\net8.0\refint\memefiC#.dll
+D:\hamster\hamsterpc\memefiC#\memefiC#\obj\Debug\net8.0\memefiC#.pdb
+D:\hamster\hamsterpc\memefiC#\memefiC#\obj\Debug\net8.0\memefiC#.genruntimeconfig.cache
+D:\hamster\hamsterpc\memefiC#\memefiC#\obj\Debug\net8.0\ref\memefiC#.dll
